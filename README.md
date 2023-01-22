@@ -1,6 +1,7 @@
 # Plus Out Instructions  
 ```md 
-Given a string and a non-empty word string, set result to a version of the original string where all chars have been replaced by pluses ("+"),
+Given a string and a non-empty word string, set result to a version of the original string where all chars 
+have been replaced by pluses ("+"),
 EXCEPT for appearances of the word string which are preserved unchanged.
 
 • for input of "12xy34", "xy" → "++xy++"
